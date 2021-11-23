@@ -4,7 +4,4 @@ I am currently looking for
 software development / engineering internships for Summer 2022. 
 
 
-https://roblieblang.github.io/
-
-
-![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisvillegas&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
+![Robert’s GitHub stats](https://github-readme-stats.vercel.app/api?username=roblieblang&theme=synthwave&show_icons=true&count_private=true “Robert’s GitHub Stats”)
