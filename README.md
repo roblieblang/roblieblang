@@ -1,7 +1,7 @@
-I'm Robert Lieblang, a Computer Science student at DePaul University in Chicago, Illinois. 
-I am currently looking for 
-
-software development / engineering internships for Summer 2022. 
+I'm Robert Lieblang, a Computer Science student at DePaul University and software developer.
 
 
-![Robert’s GitHub stats](https://github-readme-stats.vercel.app/api?username=roblieblang&theme=synthwave&show_icons=true&count_private=true “Robert’s GitHub Stats”)
+
+![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=roblieblang&show_icons=true&theme=merko)
+
+
